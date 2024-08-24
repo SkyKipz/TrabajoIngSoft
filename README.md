@@ -1,2 +1,2 @@
 # TrabajoIngSoft
-valemos verga 
+Trabajo materia Ingeniería de Software
